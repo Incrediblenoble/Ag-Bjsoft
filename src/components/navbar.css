@@ -1,0 +1,10 @@
+.user_optio_box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  
+  .user_optio_box a {
+    margin-left: 15px;
+    color: #8019c8;
+  }
